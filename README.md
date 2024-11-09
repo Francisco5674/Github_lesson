@@ -4,6 +4,7 @@ Este es un ejemplo para las clases de github 2024.
 # Coder
 Hola yo soy Francisco Fuentes y mi correo es francisco.bnalanskd@uc.cl
 
+Hola yo soy Anna Soto
 
 # Key commands
 
